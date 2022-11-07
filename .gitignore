@@ -2,9 +2,9 @@
 *.class
 
 # IntelliJ Idea files
-.ipr
-.iws
-.iml
+*.ipr
+*.iws
+*.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
