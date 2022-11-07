@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noendermangrief",
+  "name": "No Enderman Grief",
+  "description": "Disables endermen picking up any vanilla blocks.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheRedMezek", "BJTMastermind"],
+  "credits": "TheRedMezek: Original Creator, BJTMastermind: 1.7.10 Backporter.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
