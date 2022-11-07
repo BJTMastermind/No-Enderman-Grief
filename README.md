@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="256"></p>
+<p align="center"><img src="icon.png" width="128"></p>
 <h1 align="center">No Enderman Grief [1.7.10]</h1>
 
 <p align="center">Disables endermen picking up any vanilla blocks.</p>                                                                                     
