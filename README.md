@@ -1,29 +1,8 @@
-<h1 align="center">Template Repository</h1>
+<p align="center"><img src="icon.png"></p>
+<h1 align="center">No Enderman Grief [1.7.10]</h1>
 
-  A Template Repository That I Can Use to Make New Repositories I Make in The Future Easier.                                                                                         
+<p align="center">Disables endermen picking up any vanilla blocks.</p>                                                                                     
 
-## Plan To Add / To Do
-
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
-
-## How To Use (UI)
-
-Coming Soon.
-
-## How To Use (Command Line)
-
-Coming Soon.
-
-## Minimum \<Insert Language Here> Version
-
-* Version of Language 
-
-## About This Project
-
-This is a template repository that I can use to make new repositories I make in the future easier.
-
-# Screen Shots
-
-Coming Soon.
+## Credits
+* TheRedMezek (Original Creator of the 1.8 version found [here](https://www.curseforge.com/minecraft/mc-mods/no-enderman-grief))
+* BJTMastermind (1.7.10 Backporter)
